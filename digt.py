@@ -4,4 +4,4 @@ jeg end enten går mig syngende
 og sivende i min kunnen som af et
 spin i hotel og ting
 Marcus er sej, ja han er
-Jonathan stinker, ja han gør""")
+Jonathan stinker, ja han gør og marcus er dum""")
